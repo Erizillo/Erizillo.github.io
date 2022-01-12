@@ -3,9 +3,7 @@
   background-image: url("Imagen fondo.jpg");
   height = 9000px;
   width = 4000px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
 
 }
 .link b {color: red;}
