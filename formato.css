@@ -2,6 +2,7 @@
 #fondo {
   background-image: url("Imagen fondo.jpg");
   opacity = 0.4
-  height =3000px
+  height =9000px
+  width = 4000px
 }
 .link b {color: red;}
