@@ -1,10 +1,9 @@
 
 #fondo {
-  background-color: white;
-  background-image: url("Imagen fondo.jpg");
+  background-color: grey;
   height = 9000px;
   width = 4000px;
-  opacity = 0.4;
+  opacity = 0.6;
 
 
 }
