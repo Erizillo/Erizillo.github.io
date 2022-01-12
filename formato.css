@@ -1,8 +1,10 @@
 
 #fondo {
   background-image: url("Imagen fondo.jpg");
-  opacity = 0.4
   height =9000px
   width = 4000px
+  position: relative;
+  overflow: hidden;
+  padding: 16px;
 }
 .link b {color: red;}
